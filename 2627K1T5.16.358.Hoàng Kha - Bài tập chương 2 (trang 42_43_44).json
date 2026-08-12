@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6a7c3add6dc291ab47fed90b"
+  },
+  "masv": "sv001",
+  "hoten": "Đỗ Nhật Lâm",
+  "malop": "l01",
+  "tuoi": 22,
+  "phai": "Nam"
+}]
